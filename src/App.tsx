@@ -1,8 +1,9 @@
+import Home from "./assets/Pages/Home"
 
 const App = () => {
   return (
     <>
-      App
+      <Home />
     </>
   )
 }
